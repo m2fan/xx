@@ -220,30 +220,22 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {120518968,132472033},--Sudo users
+    sudo_users = {131189448,146661928},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.0
-    
-     Hello my Good friends 😀🖐🏻
-     
-    ‼️ this bot is made by : @creed_is_dead
-   〰〰〰〰〰〰〰〰
-   🚩 Our admins are : 
-   🔰 @sorblack_creed
-   🔰 @amircc_creed
-   🔰 @aria_creed
-   🔰 @alireza_mah_creed 
-   〰〰〰〰〰〰〰〰
-  ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
-   
-   !feedback (your ideas and messages)
+    about_text = [[fox v 3
+    👥 Sudos: 
+👤 @Tofaniyam 
+👤 @teleadminfox 
+👥 Admins:
+.........
+And soon we will have a new director😱
+📢Channal: @foxchannal
+Have fun.....❤️
 ]],
     help_text = [[
-Creed bots Help for mods : 😈
-Plugins : 🔻
-
+Commands list:
 1. banhammer ⭕️
 Help For Banhammer👇
 
@@ -263,10 +255,6 @@ you Can do it By Replay 👤
 !unbanall 🆔User_Id🆔
 〰〰〰〰〰〰〰〰〰〰
 2. GroupManager :🔹
-
-!Creategroup "GroupName" 🙈
-You Can CreateGroup With this command😱
-
 !setflood😃
 Set the group flood control🈹
 
@@ -275,9 +263,6 @@ Watch group settings
 
 !owner🚫
 watch group owner
-
-!setowner user_id❗️
-You can set someone to the group owner‼️
 
 !modlist💯
 watch Group mods🔆
@@ -305,24 +290,9 @@ this is like stats in a file🔸
 added !clink *
 and !glink :)
 〰〰〰〰〰〰〰〰
-Admins :®
-!add 😎
-You Can add the group to moderation.json😱
 
-!rem😏
-You Can Remove the group from mod.json⭕️
-
-!setgpowner (Gpid) user_id ⚫️
-from realm®®
-
-!addadmin 🔶
-set some one to global admin🔸
-
-!removeadmin🔘
-remove somone from global admin🔹
-〰〰〰〰〰〰〰〰〰〰〰
 3. Stats :©
-!stats creedbot (sudoers)✔️
+!fox (sudoers)✔️
 shows bt stats🔚
 
 !stats🔘
@@ -336,9 +306,6 @@ send maseage to admins via bot🔈
 !tagall txt🔸
 will tag users©
 〰〰〰〰〰〰〰〰〰
-🔜 more plugins 
-⚠️ We are Creeds ... ⚠️
-our channel : @creedantispam_channel🔋
 You Can user both "!" & "/" for them🎧
 ]]
 
